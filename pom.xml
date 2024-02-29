@@ -4,7 +4,7 @@
     <groupId>vn.dica</groupId>
     <artifactId>solr-vn-analyzer</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1</version>
     <properties>
         <lucene.version>8.5.2</lucene.version>
     </properties>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>VnCoreNLP</groupId>
             <artifactId>VnCoreNLP</artifactId>
-            <version>1.1.1</version>
+            <version>1.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.lucene</groupId>
